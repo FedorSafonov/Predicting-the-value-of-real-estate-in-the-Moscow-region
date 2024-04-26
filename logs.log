@@ -49817,3 +49817,113 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2024-04-24 17:52:41,451:INFO:_display_container: 2
 2024-04-24 17:52:41,452:INFO:LGBMRegressor(n_jobs=-1, random_state=100500)
 2024-04-24 17:52:41,452:INFO:compare_models() successfully completed......................................
+2024-04-25 23:27:10,864:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-25 23:27:10,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-25 23:27:10,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-25 23:27:10,865:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:00:12,172:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_13648\221293107.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['coordinates'] = coordinates
+
+2024-04-26 18:04:33,201:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_13648\4107976799.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_moscow'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
+2024-04-26 18:07:54,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:07:54,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:07:54,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:07:54,811:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:09:59,471:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:09:59,471:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:09:59,471:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:09:59,472:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:11:21,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:11:21,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:11:21,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:11:21,607:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:12:13,724:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_15104\1458087494.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['coordinates'] = coordinates
+
+2024-04-26 18:14:11,657:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_15104\4107976799.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_moscow'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
+2024-04-26 18:14:44,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:14:44,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:14:44,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:14:44,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-04-26 18:15:49,934:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\1458087494.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['coordinates'] = coordinates
+
+2024-04-26 18:15:49,999:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\4107976799.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_moscow'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
+2024-04-26 18:18:44,463:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\1458087494.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['coordinates'] = coordinates
+
+2024-04-26 18:18:44,688:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\4107976799.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_moscow'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
+2024-04-26 18:21:37,509:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\275138110.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_moscow'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
+2024-04-26 18:21:37,517:WARNING:C:\Users\elpiz\AppData\Local\Temp\ipykernel_7104\275138110.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  uncorrect_cords['distance_to_city_center'] = uncorrect_cords.apply(lambda row: calculate_distance(row,
+
